@@ -6,20 +6,7 @@ A **Machine Learning-powered Streamlit web application** that predicts the risk 
 
 ---
 
-## 📌 Table of Contents
 
-- [Overview](#overview)
-- [Tech Stack](#tech-stack)
-- [Dataset](#dataset)
-- [Model Training](#model-training)
-- [Streamlit App Features](#streamlit-app-features)
-- [How to Run Locally](#how-to-run-locally)
-- [Project Structure](#project-structure)
-- [Results](#results)
-- [Screenshots](#screenshots)
-- [Author](#author)
-
----
 
 ## 📖 Overview
 
