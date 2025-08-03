@@ -64,6 +64,10 @@ The best-performing model (**KNN**) was saved as `KNN_heart.pkl`.
 
 ---
 
+<img width="462" height="588" alt="Image" src="https://github.com/user-attachments/assets/c73086c5-cd1e-4739-9e5d-0167979a424b" />
+
+
+
 ## 🖥️ Streamlit App Features
 
 - 📌 Clean UI for data entry (age, sex, cholesterol, etc.)
@@ -71,8 +75,3 @@ The best-performing model (**KNN**) was saved as `KNN_heart.pkl`.
 - 📉 Displays results: `✅ Low Risk` or `⚠️ High Risk`
 - 📦 Model and scaler loaded via `joblib`
 
----
-
-
-git clone https://github.com/<your-username>/heart-stroke-prediction.git
-cd heart-stroke-prediction
